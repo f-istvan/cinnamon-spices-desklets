@@ -1,0 +1,15 @@
+.monitor-window {
+  padding: 10px 10px 0px 10px;
+}
+
+.monitor-last-modified {
+  font-size: 70%;
+  bottom: 10px;
+  padding-bottom: 20px;
+}
+
+.monitor-title {
+  font-size: 125%;
+  font-weight: bold;
+  color: rgb(255, 27, 46);
+}

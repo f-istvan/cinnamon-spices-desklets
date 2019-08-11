@@ -1,0 +1,6 @@
+{
+    "description": "Displays realtime information about public transport from all around the world",
+    "prevent-decorations": false,
+    "uuid": "RealtimePublicTransportMonitor@f-istvan",
+    "name": "Realtime Public Transport Monitor"
+}
